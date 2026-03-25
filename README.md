@@ -23,7 +23,7 @@ The Cybersecurity Audit project aimed to evaluate and strengthen the security po
 - Google Docs for documentation and report development
 - Microsoft Excel for organizing assessment data
 
-## Steps
+## Screenshots
 
 
 <img width="680" height="880" alt="Screenshot 2026-03-25 at 3 45 05 PM" src="https://github.com/user-attachments/assets/ac929d8f-9fbd-4336-adc5-82f31c9fcfe1" />
