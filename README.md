@@ -8,10 +8,10 @@ The Cybersecurity Audit project aimed to evaluate and strengthen the security po
 ### Skills Learned
 
 
-- Conducted comprehensive cybersecurity assessments of real organizations
-- Applied risk analysis methodologies to identify and prioritize vulnerabilities
-- Evaluated security controls using frameworks such as NIST Cybersecurity Framework (CSF)
-- Developed the ability to translate technical findings into business-friendly recommendations
+- Gained experience performing cybersecurity risk assessments and identifying organizational vulnerabilities
+- Developed an understanding of risk analysis methods to prioritize security issues effectively
+- Learned how to evaluate security controls using frameworks like the NIST Cybersecurity Framework (CSF)
+- Built the ability to translate technical findings into clear, business-friendly recommendations
 - Strengthened communication skills through stakeholder interviews and presentations
 - Enhanced critical thinking in identifying security gaps and proposing mitigation strategies
 
