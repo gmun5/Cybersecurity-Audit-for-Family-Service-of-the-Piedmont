@@ -20,8 +20,7 @@ The Cybersecurity Audit project aimed to evaluate and strengthen the security po
 
 - NIST Cybersecurity Framework (CSF) for control evaluation
 - Risk assessment and auditing methodologies
-- Google Docs for documentation and report development
-- Microsoft Excel for organizing assessment data
+- Security reporting & documentation
 
 ## Screenshots
 
