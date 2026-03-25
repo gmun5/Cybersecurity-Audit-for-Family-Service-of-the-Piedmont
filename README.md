@@ -20,8 +20,8 @@ The Cybersecurity Audit project aimed to evaluate and strengthen the security po
 
 - NIST Cybersecurity Framework (CSF) for control evaluation
 - Risk assessment and auditing methodologies
-- Google Workspace (Docs) for security reporting and collaboration
-Spreadsheet tools (e.g., Google Sheets) for organizing assessment data (only include if true)
+- Google Docs for documentation and report development
+- Microsoft Excel for organizing assessment data
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
